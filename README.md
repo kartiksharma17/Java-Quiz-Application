@@ -40,18 +40,18 @@ src/
 
 ### Quiz Window
 
-![Quiz Window](screenshots/quiz-window.png)
+![Quiz Window]("https://drive.google.com/file/d/1muoLJo-KxM0cKGcDMF1KH-TU9sBf3lQB/view?usp=drive_link")
 
 ### Result Screen
 
-![Result Screen](screenshots/result-screen.png)
+![Result Screen]("https://drive.google.com/file/d/1rbcNfER1lxMFneLGD9qIFzDDdxxHmI-u/view?usp=drive_link")
 
 ## How to Run
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/java-quiz-application.git
+git clone https://github.com/kartiksharma17/Java-Quiz-Application.git
 ```
 
 2. Open the project in IntelliJ IDEA
