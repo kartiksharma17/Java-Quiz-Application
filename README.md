@@ -40,7 +40,7 @@ src/
 
 ### Quiz Window
 
-![Quiz Window]("https://drive.google.com/file/d/1muoLJo-KxM0cKGcDMF1KH-TU9sBf3lQB/view?usp=drive_link")
+![Quiz Window]("Java-Quiz-Application/Screenshot(215).png")
 
 ### Result Screen
 
