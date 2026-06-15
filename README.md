@@ -40,11 +40,11 @@ src/
 
 ### Quiz Window
 
-![Quiz Window]("Java-Quiz-Application/Screenshot(215).png")
+![Quiz Window]("Screenshot (215).png")
 
 ### Result Screen
 
-![Result Screen]("https://drive.google.com/file/d/1rbcNfER1lxMFneLGD9qIFzDDdxxHmI-u/view?usp=drive_link")
+![Result Screen]("Screenshot (216).png")
 
 ## How to Run
 
